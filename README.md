@@ -1,6 +1,6 @@
 # Recommendation_System
 
-This project gives the idea different recommendation systems such as knowledge based, content based and at last collaborative filtering based algorithm. There are two datasets related to user article interections and article community. A recommendation system has been developed depending on the user interections with articles and we can find the article recommendations for the new users and we can select top 5, 10 and 20 recommendated articles for the particular user. 
+This project gives the idea of different recommendation systems such as knowledge based, content based and at last collaborative filtering based algorithm. There are two datasets related to user article interections and article community. A recommendation system has been developed depending on the user interections with articles and we can find the article recommendations for the new users and we can select top 5, 10 and 20 recommendated articles for the particular user. 
 
 ## Project Motivation
 The following steps have been taken care: 
